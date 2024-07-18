@@ -7,7 +7,7 @@ In this project I will do the following:
 * Perform univariate and multivariate anlyses
 * Generate a set of insights and recommendations that will help the company in targeting new customers.
 
-SKills & Tools Covered 
+Skills & Tools Covered 
 * Pandas
 * Numpy
 * Visualisation techniques
